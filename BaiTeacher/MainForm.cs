@@ -8,6 +8,7 @@ using System.Collections;
 
 namespace BaiTeacher
 {
+    /*需要Microsoft Huihui Desktop - Chinese (Simplified)的支持*/
     public partial class frmMain : Form
     {
         public frmMain()
